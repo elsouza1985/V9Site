@@ -1,0 +1,25 @@
+{
+  "short_name": "Valor9",
+  "name": "Valor9 Consultoria Inteligente",
+  "icons": [
+    {
+      "src": "V9_logo_120_120.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "V9_logo_120_120.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "V9_logo_120_120.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
